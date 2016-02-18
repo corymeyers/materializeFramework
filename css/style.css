@@ -1,0 +1,43 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.top-row {
+  margin-top: 40px;
+  clear: both;
+}
+body {
+    background-image: url("../img/background.jpg"); background-attachment:fixed;
+}
+
+.card-content{
+  background-color: teal lighten-2;
+}
+
+.video-container {
+  margin: 45px;
+}
+
+.teal hr {
+  color: teal;
+}
+
+
+
+/*.card-content {
+  height: auto;
+  width: 90%;
+}*/
